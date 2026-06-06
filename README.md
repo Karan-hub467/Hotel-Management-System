@@ -89,7 +89,3 @@ Hotel-Management-System/
 * Reports Dashboard
 * Multi-Hotel Management
 * Email Confirmation System
-
-## Author
-
-Karan Kumar
